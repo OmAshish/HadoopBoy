@@ -1,0 +1,2 @@
+{"ID":"1001234567","Name":"Hadoop Definitive Guide","Price":"30.09","Author":{"Name":"Tom","Surname":"White"}}
+{"ID":"2001639565","Name":"Programming Pig","Price":"14.13","Author":{"Name":"Alan","Surname":"Gates"}}
